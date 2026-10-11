@@ -1,0 +1,16 @@
+MODEL_PATH = "models/hand_landmarker.task"
+TOOLBAR_HEIGHT = 132
+BUTTON_HEIGHT = 78
+SMOOTHING = 0.48
+AVERAGE_FRAMES = 4
+STABLE_FRAMES = 3
+HOVER_SECONDS = 0.55
+MIN_BRUSH = 2
+MAX_BRUSH = 40
+PALETTE = [
+    ("BLUE", (255, 0, 0)),
+    ("RED", (0, 0, 255)),
+    ("GREEN", (0, 255, 0)),
+    ("YELLOW", (0, 255, 255)),
+    ("WHITE", (255, 255, 255)),
+]
