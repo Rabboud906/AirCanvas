@@ -12,11 +12,7 @@ Air Canvas is a Python computer-vision drawing application that lets you draw an
 - **Viewing and exporting:** Toggle between live camera and whiteboard backgrounds, then save drawings as PNG files.
 - **Detection feedback:** A hand bounding box, gesture/mode label, brush width, and approximate FPS appear on screen. If no hand is detected, drawing pauses.
 
-## Demo
 
-Add a short demo video or GIF here before submitting. Show drawing, changing colors and brush width, making a shape, open-palm erasing, and saving a drawing. You can also include an example PNG in `output/`.
-
-<!-- Example: ![Air Canvas demo](assets/demo.gif) -->
 
 ## Requirements
 
