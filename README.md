@@ -1,4 +1,4 @@
-# Air Canvas — Draw in the Air with Hand Gestures
+# Air Canvas : Draw in the Air with Hand Gestures
 
 Air Canvas is a Python computer-vision drawing application that lets you draw and edit artwork by moving your hand in front of a webcam. It uses a pretrained **MediaPipe Hand Landmarker** model to detect a hand and its 21 landmarks, and **OpenCV** to display the camera feed, toolbar, and drawings. No custom model training is required.
 
