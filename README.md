@@ -142,8 +142,6 @@ Potential improvements include gesture calibration, mouse-free save/undo control
 
 **Model file not found:** Make sure `models/hand_landmarker.task` exists and you launched the program from the project root.
 
-**`NameError: name 'time' is not defined` in `drawing.py`:** Add `import time` at the top of `drawing.py` (it is needed for the rainbow brush).
-
 **MediaPipe prints XNNPACK or feedback-manager messages:** These can be informational; investigate the actual Python traceback if the program stops.
 
 ## Acknowledgments
